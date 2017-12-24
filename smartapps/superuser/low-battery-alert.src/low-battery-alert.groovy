@@ -14,8 +14,9 @@ definition(
     author: "Steve Meyers",
     description: "Alert if low battery",
     category: "Convenience",
-    iconUrl: "http://www.stevemeyers.net/wp-content/uploads/2015/02/battery-60px.png",
-    iconX2Url: "http://www.stevemeyers.net/wp-content/uploads/2015/02/battery-120px.png",
+    iconUrl: "https://github.com/pprenz/SmartHome/tree/master/images/battery.png",
+    iconX2Url: "https://github.com/pprenz/SmartHome/tree/master/images/battery.png",
+    
 )
 
 preferences {
