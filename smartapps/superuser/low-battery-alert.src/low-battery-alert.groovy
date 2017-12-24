@@ -15,7 +15,7 @@ definition(
     description: "Alert if low battery",
     category: "Convenience",
     iconUrl: "https://github.com/pprenz/SmartHome/tree/master/images/if_battery_173155.png",
-    iconX2Url: "https://github.com/pprenz/SmartHome/tree/master/images/if_battery_173155.png",
+    iconX2Url: "https://ibb.co/iJwrC6",
     
 )
 
